@@ -1,23 +1,36 @@
-# Olá, eu sou o Wagner 👋
+# Olá, eu sou o Wagner Lindemberg 👋
 
-### **IT Professional | Security Operations & Infrastructure**
+### **CEO & Gestor de TI | Especialista em Segurança da Informação & Perícia Forense**
 
-**Fundador da [WL Tech](https://wltech.com.br)**  
-Construindo e documentando um SOC Lab completo — Threat Detection, Observability & Automação 🇧🇷
+**CEO & Gestor de TI na [WL Tech](https://wltech.com.br)**  
+Gestão de infraestrutura de TI, cibersegurança e continuidade de negócios em Fortaleza - CE 🇧🇷
 
 [![Website](https://img.shields.io/badge/WLTech-005A9C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wltech.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-lindemberg-ab91927b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-wagberg)
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Atuo com infraestrutura e segurança operacional, do zero à produção: da configuração de agentes e pipelines de alertas até a automação de ferramentas internas em Python. Meu foco atual é o **WLTech SOC Lab**, um ambiente pessoal de SOC (Security Operations Center) rodando em cloud.
+Como CEO e Gestor de TI da **WL Tech**, combino visão estratégica de negócios com um background técnico especializado em segurança da informação, perícia forense computacional, análise de vulnerabilidades e testes de intrusão (pentest). No dia a dia, alio essa vivência corporativa à construção prática de um SOC (Security Operations Center) pessoal — o **WLTech SOC Lab** — onde documento e automatizo detecção de ameaças, observabilidade e resposta a incidentes.
 
 - 🔭 **Construindo agora:** WLTech SOC Lab — pipeline completo Wazuh → Graylog → CoPilot para detecção e resposta a incidentes.
-- 🛡️ **Domínio principal:** SIEM/SOC (Wazuh, Graylog, CoPilot), observabilidade (Grafana, InfluxDB), forense com Velociraptor.
-- 🧰 **Também no radar:** firewall pfSense customizado, automação em PowerShell/Python e ferramentas desktop internas.
+- 🛡️ **Domínio principal:** Segurança da Informação, Perícia Forense Computacional, Análise de Vulnerabilidades e Pentest.
+- 🧰 **Também no radar:** SIEM/SOC (Wazuh, Graylog, CoPilot), observabilidade (Grafana, InfluxDB), forense com Velociraptor, firewall pfSense customizado e automação em Python/PowerShell.
 - 🐧 Forte em Linux/servidores e preferência por soluções open-source.
+- 🌎 Idiomas: Português (nativo), Inglês (avançado).
+
+---
+
+### 🎓 Formação & Certificações
+
+- 🎓 Bacharel em Sistemas de Informação — Unifanor
+- 🎓 Pós-Graduação em Segurança da Informação — Unichristus
+- 🕵️ Perito Forense Computacional
+- 📜 CompTIA Security+
+- 📜 EXIN Ethical Hacking Foundation
+- 🤝 Membro da APECOF (Associação Nacional de Peritos de Computação Forense)
 
 ---
 
@@ -49,4 +62,4 @@ Atuo com infraestrutura e segurança operacional, do zero à produção: da conf
 
 ---
 
-*"Infraestrutura sólida, detecção afiada."*
+*"Estabilidade e segurança da tecnologia para você focar no crescimento do negócio."*
